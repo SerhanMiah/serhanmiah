@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serhan Miah</h1>
 <h3 align="center">Junior Software Engineer with a background in Digital Sculpting, Photography and Web Development. Looking for new opportunities</h3>
 
-- 🔭 I’m currently working on [CS50 Final Project](https://github.com/SerhanMiah/project)
+- 🔭 I’m currently working on [CS50 Final Project](https://github.com/SerhanMiah/FlaskSQL-JobBoard)
 
 - 🌱 I’m currently learning **Python and Django frameworks**
 
