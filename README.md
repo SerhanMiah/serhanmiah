@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Serhan Miah</h1>
 <h3 align="center">Junior Software Engineer with a background in Digital Sculpting, Photography and Web Development. Looking for new opportunities</h3>
 
-- 🔭 I’m currently working on [CS50 Final Project](https://github.com/SerhanMiah/FlaskSQL-JobBoard)
+- 🔭 I completed my [CS50 Final Project](https://github.com/SerhanMiah/FlaskSQL-JobBoard)(https://certificates.cs50.io/36b0cc7c-965b-468c-a410-5e6fd616da70.pdf?size=letter)
 
-- 🌱 I’m currently learning Python and Django frameworks
+- 🌱 I am presently acquiring proficiency in Python, Django frameworks, and broadening my coding expertise.
 
 -  💬 Ask me about React, Next.JS and Python
 
 -  📫 How to reach me serhanmiah1@gmail.com
 
--   ⚡ Fun fact I have a huge passion for art and whenever I get some free time I work on sculpting.
+-   ⚡ Fun fact I have a huge passion for art and whenever I get some free time I work on sculpting using Zbrush.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
