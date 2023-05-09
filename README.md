@@ -5,7 +5,7 @@
 
 - 🌱 I am presently acquiring proficiency in Python, TypeScript, Django, Flask and broadening my coding expertise.
 
-- 🌱 I am actively engaged in expanding my proficiency in C++ and sharpening my skills in Unity and Unreal game development.
+- 🌱 I am actively engaged in expanding my proficiency in C# and sharpening my skills in Unity and Unreal game development.
 
 -  💬 Ask me about React, Next.JS, Python and TypeScript
 
