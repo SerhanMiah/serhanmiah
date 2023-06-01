@@ -7,7 +7,7 @@
 
 - 🌱 I am actively engaged in expanding my proficiency in C# and sharpening my skills in Unity and Unreal game development.
 
--  💬 Ask me about React, Next.JS, Python and TypeScript
+-  💬 Ask me about React, C#, Python and TypeScript
 
 -  📫 How to reach me serhanmiah1@gmail.com
 
