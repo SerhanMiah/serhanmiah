@@ -6,6 +6,7 @@
 - 🌱 I am presently acquiring proficiency in Python, TypeScript, Django, Flask and broadening my coding expertise.
 
 - 🌱 I am actively engaged in expanding my proficiency in C# and sharpening my skills in Unity and Unreal game development.
+-  I am working on a C#, ASP.NET framework with Angular and TS[https://github.com/SerhanMiah/VideoGameOnlineShop]
 
 -  💬 Ask me about React, C#, Python and TypeScript
 
