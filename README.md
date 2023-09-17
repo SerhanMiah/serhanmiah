@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Serhan Miah</h1>
 <h3 align="center">As a Junior Software Engineer proficient in Digital Sculpting, Photography, and Web Development, I am eagerly seeking fresh opportunities to apply and enhance my skill set.</h3>
 
-- 🔭 Accomplishments:
+- 🔭 **Accomplishments**:
   - Completed the [CS50 Final Project](https://github.com/SerhanMiah/FlaskSQL-JobBoard). See my [Certificate](https://certificates.cs50.io/36b0cc7c-965b-468c-a410-5e6fd616da70.pdf?size=letter).
-  - Earned a certificate from [General Assembly]([Your_Link_Here](https://drive.google.com/file/d/1yHSNgMIx23P-gvL98wYk-KA_ISjbzlEL/view?usp=sharing)).
+  - Earned a certificate from [General Assembly](https://drive.google.com/file/d/1yHSNgMIx23P-gvL98wYk-KA_ISjbzlEL/view?usp=sharing).
+
+- 🌐 Explore my [Software Development Portfolio](https://serhanmiah-portfolio.netlify.app/).
+
+- 🎨 Admire my [Art Portfolio](https://serhanmiah1991.wixsite.com/portfolio).
 
 - 🌱 I'm deepening my expertise in **Python**, **TypeScript**, **Django**, and **Flask**.
   
@@ -16,6 +20,7 @@
 - 📫 Drop me an email at: serhanmiah1@gmail.com.
   
 - ⚡ When I'm not coding: I'm an artist at heart, sculpting away on **Zbrush** during my free moments.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
