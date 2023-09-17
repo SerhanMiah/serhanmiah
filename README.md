@@ -1,18 +1,20 @@
 <h1 align="center">Hi 👋, I'm Serhan Miah</h1>
 <h3 align="center">As a Junior Software Engineer proficient in Digital Sculpting, Photography, and Web Development, I am eagerly seeking fresh opportunities to apply and enhance my skill set.</h3>
 
-- 🔭 I have completed my [CS50 Final Project](https://github.com/SerhanMiah/FlaskSQL-JobBoard) - [Certificate](https://certificates.cs50.io/36b0cc7c-965b-468c-a410-5e6fd616da70.pdf?size=letter)
+- 🔭 I've completed my [CS50 Final Project](https://github.com/SerhanMiah/FlaskSQL-JobBoard). Check out my [Certificate](https://certificates.cs50.io/36b0cc7c-965b-468c-a410-5e6fd616da70.pdf?size=letter).
+  
+- 🌱 Currently diving deeper into **Python**, **TypeScript**, **Django**, and **Flask**.
+  
+- 🎮 Expanding my knowledge in game development with **Unity** and **Unreal**. I'm also honing my skills in **C#**.
+  
+- 🛠️ Working on a project using **C#**, **ASP.NET framework**, **Angular**, and **TS**. [Check it out](https://github.com/SerhanMiah/VideoGameOnlineShop).
 
-- 🌱 I am presently acquiring proficiency in Python, TypeScript, Django, Flask and broadening my coding expertise.
+- 💬 Let's chat about **React**, **C#**, **Python**, or **TypeScript**.
 
-- 🌱 I am actively engaged in expanding my proficiency in C# and sharpening my skills in Unity and Unreal game development.
--  I am working on a C#, ASP.NET framework with Angular and TS[https://github.com/SerhanMiah/VideoGameOnlineShop]
+- 📫 Reach out to me at: serhanmiah1@gmail.com.
+  
+- ⚡ Fun fact: Art is my passion. In my free time, I love sculpting with **Zbrush**.
 
--  💬 Ask me about React, C#, Python and TypeScript
-
--  📫 How to reach me serhanmiah1@gmail.com
-
--   ⚡ Fun fact I have a huge passion for art and whenever I get some free time I work on sculpting using Zbrush.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
