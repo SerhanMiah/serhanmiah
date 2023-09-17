@@ -1,32 +1,49 @@
-<h1 align="center">Hi 👋, I'm Serhan Miah</h1>
-<h3 align="center">As a Junior Software Engineer proficient in Digital Sculpting, Photography, and Web Development, I am eagerly seeking fresh opportunities to apply and enhance my skill set.</h3>
+<h1 align="center">👋 Hi, I'm Serhan Miah</h1>
+<h3 align="center">A Junior Software Engineer with a passion for Digital Sculpting, Photography, and Web Development. Actively seeking new challenges and avenues to expand my horizons.</h3>
 
-- 🔭 **Accomplishments**:
-  - Completed the [CS50 Final Project](https://github.com/SerhanMiah/FlaskSQL-JobBoard). See my [Certificate](https://certificates.cs50.io/36b0cc7c-965b-468c-a410-5e6fd616da70.pdf?size=letter).
-  - Earned a certificate from [General Assembly](https://drive.google.com/file/d/1yHSNgMIx23P-gvL98wYk-KA_ISjbzlEL/view?usp=sharing). 
-    - 🌌 [Space Invader Project](https://serhanmiah.github.io/Serhan-SpaceInvader/)
-    - ❓ [Quiz App](https://sei-project2-quiz.netlify.app/)
-    - 🌍 [Destinations Project](https://sei65-destinations.netlify.app/)
-    - 🎭 [Theatre Review](https://sei-project4-theatre-reivew.up.railway.app/)
+<div align="center">
+    <h4>🌟 Accomplishments:</h4>
+    <ul>
+        <li>🎓 Completed the <a href="https://github.com/SerhanMiah/FlaskSQL-JobBoard">CS50 Final Project</a>. View my <a href="https://certificates.cs50.io/36b0cc7c-965b-468c-a410-5e6fd616da70.pdf?size=letter">Certificate</a>.</li>
+        <li>📜 Certified by <a href="https://drive.google.com/file/d/1yHSNgMIx23P-gvL98wYk-KA_ISjbzlEL/view?usp=sharing">General Assembly</a> with projects in:
+            <ul>
+                <li><a href="https://serhanmiah.github.io/Serhan-SpaceInvader/">Space Invader</a></li>
+                <li><a href="https://sei-project2-quiz.netlify.app/">Quiz App</a></li>
+                <li><a href="https://sei65-destinations.netlify.app/">Destinations</a></li>
+                <li><a href="https://sei-project4-theatre-reivew.up.railway.app/">Theatre Review</a></li>
+            </ul>
+        </li>
+    </ul>
 
-- 🌐 Explore my [Software Development Portfolio](https://serhanmiah-portfolio.netlify.app/).
+    <h4>🌍 Online Portfolios:</h4>
+    <ul>
+        <li>🔍 <a href="https://serhanmiah-portfolio.netlify.app/">Software Development Portfolio</a></li>
+        <li>🎨 <a href="https://serhanmiah1991.wixsite.com/portfolio">Art Portfolio</a></li>
+    </ul>
+    
+    <h4>🚀 Current Focus:</h4>
+    <ul>
+        <li>🐍 Python, Django, Flask</li>
+        <li>📘 TypeScript</li>
+        <li>🎮 Unity, Unreal, and C# for Game Development</li>
+    </ul>
+    
+    <h4>🔧 Featured Project:</h4>
+    <a href="https://github.com/SerhanMiah/VideoGameOnlineShop">Video Game Online Shop</a> - A harmonious blend of C#, ASP.NET, Angular, and TypeScript.
 
-- 🎨 Admire my [Art Portfolio](https://serhanmiah1991.wixsite.com/portfolio).
+    <h4>📩 Get in touch:</h4>
+    <a href="mailto:serhanmiah1@gmail.com">serhanmiah1@gmail.com</a>
 
-- 🌱 I'm deepening my expertise in **Python**, **TypeScript**, **Django**, and **Flask**.
-  
-- 🎮 On the gaming front, I'm immersing myself in **Unity** and **Unreal**, and refining my **C#** prowess.
-  
-- 🛠️ Check out my project, a blend of **C#**, **ASP.NET framework**, **Angular**, and **TS** [here](https://github.com/SerhanMiah/VideoGameOnlineShop).
+    <h4>🎨 Off the keyboard:</h4>
+    Sculpting in Zbrush during leisure moments.
+</div>
 
-- 💬 Eager to discuss **React**, **C#**, **Python**, and **TypeScript**.
+<h3 align="left">🔗 Connect with me:</h3>
+<p align="left">
+    <a href="https://linkedin.com/in/serhan-miah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhan-miah" height="30" width="40" /></a>
+</p>
 
-- 📫 Drop me an email at: serhanmiah1@gmail.com.
-  
-- ⚡ When I'm not coding: I'm an artist at heart, sculpting away on **Zbrush** during my free moments.
-
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">🔧 Languages & Tools:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/serhan-miah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhan-miah" height="30" width="40" /></a>
 </p>
