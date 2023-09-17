@@ -3,7 +3,11 @@
 
 - 🔭 **Accomplishments**:
   - Completed the [CS50 Final Project](https://github.com/SerhanMiah/FlaskSQL-JobBoard). See my [Certificate](https://certificates.cs50.io/36b0cc7c-965b-468c-a410-5e6fd616da70.pdf?size=letter).
-  - Earned a certificate from [General Assembly](https://drive.google.com/file/d/1yHSNgMIx23P-gvL98wYk-KA_ISjbzlEL/view?usp=sharing).
+  - Earned a certificate from [General Assembly](https://drive.google.com/file/d/1yHSNgMIx23P-gvL98wYk-KA_ISjbzlEL/view?usp=sharing). 
+    - 🌌 [Space Invader Project](https://serhanmiah.github.io/Serhan-SpaceInvader/)
+    - ❓ [Quiz App](https://sei-project2-quiz.netlify.app/)
+    - 🌍 [Destinations Project](https://sei65-destinations.netlify.app/)
+    - 🎭 [Theatre Review](https://sei-project4-theatre-reivew.up.railway.app/)
 
 - 🌐 Explore my [Software Development Portfolio](https://serhanmiah-portfolio.netlify.app/).
 
