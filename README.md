@@ -1,20 +1,21 @@
 <h1 align="center">Hi 👋, I'm Serhan Miah</h1>
 <h3 align="center">As a Junior Software Engineer proficient in Digital Sculpting, Photography, and Web Development, I am eagerly seeking fresh opportunities to apply and enhance my skill set.</h3>
 
-- 🔭 I've completed my [CS50 Final Project](https://github.com/SerhanMiah/FlaskSQL-JobBoard). Check out my [Certificate](https://certificates.cs50.io/36b0cc7c-965b-468c-a410-5e6fd616da70.pdf?size=letter).
-  
-- 🌱 Currently diving deeper into **Python**, **TypeScript**, **Django**, and **Flask**.
-  
-- 🎮 Expanding my knowledge in game development with **Unity** and **Unreal**. I'm also honing my skills in **C#**.
-  
-- 🛠️ Working on a project using **C#**, **ASP.NET framework**, **Angular**, and **TS**. [Check it out](https://github.com/SerhanMiah/VideoGameOnlineShop).
+- 🔭 Accomplishments:
+  - Completed the [CS50 Final Project](https://github.com/SerhanMiah/FlaskSQL-JobBoard). See my [Certificate](https://certificates.cs50.io/36b0cc7c-965b-468c-a410-5e6fd616da70.pdf?size=letter).
+  - Earned a certificate from [General Assembly]([Your_Link_Here](https://drive.google.com/file/d/1yHSNgMIx23P-gvL98wYk-KA_ISjbzlEL/view?usp=sharing)).
 
-- 💬 Let's chat about **React**, **C#**, **Python**, or **TypeScript**.
-
-- 📫 Reach out to me at: serhanmiah1@gmail.com.
+- 🌱 I'm deepening my expertise in **Python**, **TypeScript**, **Django**, and **Flask**.
   
-- ⚡ Fun fact: Art is my passion. In my free time, I love sculpting with **Zbrush**.
+- 🎮 On the gaming front, I'm immersing myself in **Unity** and **Unreal**, and refining my **C#** prowess.
+  
+- 🛠️ Check out my project, a blend of **C#**, **ASP.NET framework**, **Angular**, and **TS** [here](https://github.com/SerhanMiah/VideoGameOnlineShop).
 
+- 💬 Eager to discuss **React**, **C#**, **Python**, and **TypeScript**.
+
+- 📫 Drop me an email at: serhanmiah1@gmail.com.
+  
+- ⚡ When I'm not coding: I'm an artist at heart, sculpting away on **Zbrush** during my free moments.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
