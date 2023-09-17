@@ -1,45 +1,29 @@
-<h1 align="center">👋 Hello World, I'm Serhan Miah!</h1>
-<h3 align="center">Blending Code with Creativity: A Junior Software Engineer with flair for Digital Sculpting, Photography, and Web Development.</h3>
+<h1 align="center">Hi 👋, I'm Serhan Miah</h1>
+<h3 align="center">As a Junior Software Engineer proficient in Digital Sculpting, Photography, and Web Development, I am eagerly seeking fresh opportunities to apply and enhance my skill set.</h3>
 
-<div align="center">
-    <h4>🌟 Distinctive Milestones:</h4>
-    <ul>
-        <li>🎓 <strong>CS50 Graduate:</strong> View my <a href="https://certificates.cs50.io/36b0cc7c-965b-468c-a410-5e6fd616da70.pdf?size=letter">Certificate</a> & the <a href="https://github.com/SerhanMiah/FlaskSQL-JobBoard">Final Project</a>.</li>
-        <li>🏅 <strong>Certified by General Assembly:</strong> Dive into my projects:
-            <ul>
-                <li><a href="https://serhanmiah.github.io/Serhan-SpaceInvader/">Space Invader</a></li>
-                <li><a href="https://sei-project2-quiz.netlify.app/">Quiz App</a></li>
-                <li><a href="https://sei65-destinations.netlify.app/">Destinations</a></li>
-                <li><a href="https://sei-project4-theatre-reivew.up.railway.app/">Theatre Review</a></li>
-            </ul>
-        </li>
-    </ul>
+- 🔭 **Accomplishments**:
+  - Completed the [CS50 Final Project](https://github.com/SerhanMiah/FlaskSQL-JobBoard). See my [Certificate](https://certificates.cs50.io/36b0cc7c-965b-468c-a410-5e6fd616da70.pdf?size=letter).
+  - Earned a certificate from [General Assembly](https://drive.google.com/file/d/1yHSNgMIx23P-gvL98wYk-KA_ISjbzlEL/view?usp=sharing). 
+    - 🌌 [Space Invader Project](https://serhanmiah.github.io/Serhan-SpaceInvader/)
+    - ❓ [Quiz App](https://sei-project2-quiz.netlify.app/)
+    - 🌍 [Destinations Project](https://sei65-destinations.netlify.app/)
+    - 🎭 [Theatre Review](https://sei-project4-theatre-reivew.up.railway.app/)
 
-    <h4>🔍 Explore My Work:</h4>
-    <ul>
-        <li><a href="https://serhanmiah-portfolio.netlify.app/">Software Development Portfolio</a></li>
-        <li><a href="https://serhanmiah1991.wixsite.com/portfolio">Artistic Endeavors</a></li>
-    </ul>
+- 🌐 Explore my [Software Development Portfolio](https://serhanmiah-portfolio.netlify.app/).
 
-    <h4>🎯 I'm Currently Navigating:</h4>
-    <ul>
-        <li>Deepening roots in 🐍 Python, Django, and Flask</li>
-        <li>Polishing my 📘 TypeScript skills</li>
-        <li>Exploring the gaming universe with 🎮 Unity, Unreal, and C#</li>
-    </ul>
+- 🎨 Admire my [Art Portfolio](https://serhanmiah1991.wixsite.com/portfolio).
 
-    <h4>🔥 Spotlight Project:</h4>
-    <p><a href="https://github.com/SerhanMiah/VideoGameOnlineShop">Video Game Online Shop</a>: A symphony of C#, ASP.NET, Angular, and TypeScript.</p>
+- 🌱 I'm deepening my expertise in **Python**, **TypeScript**, **Django**, and **Flask**.
+  
+- 🎮 On the gaming front, I'm immersing myself in **Unity** and **Unreal**, and refining my **C#** prowess.
+  
+- 🛠️ Check out my project, a blend of **C#**, **ASP.NET framework**, **Angular**, and **TS** [here](https://github.com/SerhanMiah/VideoGameOnlineShop).
 
-    <h4>💌 Reach Out:</h4>
-    <p><a href="mailto:serhanmiah1@gmail.com">serhanmiah1@gmail.com</a></p>
+- 💬 Eager to discuss **React**, **C#**, **Python**, and **TypeScript**.
 
-    <h4>🍃 Beyond Code:</h4>
-    <p>Unwinding and crafting sculptures in Zbrush.</p>
-
-    <h3 align="left">🔗 Let's Network:</h3>
-    <a href="https://linkedin.com/in/serhan-miah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhan-miah" height="30" width="40" /></a>
-</div>
+- 📫 Drop me an email at: serhanmiah1@gmail.com.
+  
+- ⚡ When I'm not coding: I'm an artist at heart, sculpting away on **Zbrush** during my free moments.
 
 
 <h3 align="left">Languages and Tools:</h3>
