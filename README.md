@@ -16,7 +16,7 @@
 #### 🛠️ **Skills & Expertise**:
 - 🌱 Deepening my knowledge in **Python**, **TypeScript**, **Django**, and **Flask**.
 - 🎮 Immersing in **Unity** and **Unreal**, honing **C#**.
-- 💼 Project: [Video Game Online Shop](https://github.com/SerhanMiah/VideoGameOnlineShop) using **C#**, **ASP.NET framework**, **Angular**, and **TS**.
+- 💼 Project: [Video Game Online Shop](https://github.com/SerhanMiah/VideoGameOnlineShop)using **C#**, **ASP.NET framework**, **Angular**, and **TS** [Link](https://techstackedgames.vercel.app/home).
 
 #### 💬 **Let's Talk**:
 - 📧 Email: serhanmiah1@gmail.com
