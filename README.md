@@ -8,7 +8,6 @@
   - ❓ [Quiz App](https://sei-project2-quiz.netlify.app/)
   - 🌍 [Destinations Project](https://sei65-destinations.netlify.app/)
   - 🎭 [Theatre Review](https://sei-project4-theatre-reivew.up.railway.app/)
-  - 🐍 [Snake Game](https://github.com/SerhanMiah/SnakeGame) (C# with XAML)
 
 #### 🌐 **Portfolios**:
 - 🖥️ [Software Development Portfolio](https://serhanmiah-portfolio.netlify.app/)
@@ -18,10 +17,11 @@
 - 🌱 Deepening my knowledge in **Python**, **TypeScript**, **Django**, and **Flask**.
 - 🎮 Immersing in **Unity** and **Unreal**, honing **C#**.
 - 💼 Project: [Video Game Online Shop](https://github.com/SerhanMiah/VideoGameOnlineShop) using **C#**, **ASP.NET framework**, **Angular**, and **TS** [Link](https://techstackedgames.vercel.app/home).
+- 🐍 [Snake Game](https://github.com/SerhanMiah/SnakeGame) (C# with XAML)
 
 #### 💬 **Let's Talk**:
 - 📧 Email: serhanmiah1@gmail.com
-- 🗣️ Keen on discussing **React**, **C#**, **Python**, and **TypeScript**.
+- 🗣️ Keen on discussing **React**, **C#**, **Python**, **TypeScript** and **Angular**.
 
 #### ⚡ **Beyond Code**:
 I channel my inner artist, often sculpting in **Zbrush** during leisure moments.
